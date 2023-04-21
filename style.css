@@ -1,0 +1,106 @@
+body{
+    background-image: url("image/bgg.jpg");
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    margin: 100px;
+}
+.one{
+    text-align: justify;
+    margin: 1px 100px;
+    font-size: 20px;
+    text-indent: 20px;
+}
+.two{
+    text-align: center;
+    color: red;
+    font-size: 30px;
+    font-family: Arial, serif;
+    background-color: lime;
+    margin-top: 50px;
+    text-shadow: 2px 1px black;
+}
+.three{
+    text-align: center;
+    color: yellow;
+    font-size: 35px;
+    font-family: "Times New Roman", serif;
+    background-color: blue;
+    margin-top: 50px;
+    text-shadow: 2px 1px black;
+}
+.four{
+    text-align: center;
+    color: lawngreen;
+    font-size: 40px;
+    font-family: Georgia, serif;
+    background-color: purple;
+    margin-top: 50px;
+    text-shadow: 2px 1px black;
+}
+.five{
+    font-size: 35px;
+    font-family: Arial, serif;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-left: 30px;
+    text-decoration: underline;
+    color: #2fbbff;
+    text-shadow: 3px 2px 10px black;
+}
+.six{
+    font-size: 20px;
+    font-family: "Times New Roman", serif;
+    text-indent: 30px;
+    color: #f51068;
+    text-shadow: 0.5px 0.5px black;
+    margin-right: 50px;
+    margin-left: 50px;
+    text-align: justify;
+}
+sup{
+    color: orange;
+    font-size: 20px;
+}
+#up, #upp, #uppp, #down, #downn, #downnn{
+    text-decoration: none;
+}
+.seven{
+    color: #424242;
+    font-size: 15px;
+    font-style: italic;
+    margin: 20px;
+}
+.eight{
+    font-size: 35px;
+}
+.nine{
+    color: black;
+    text-decoration: none;
+}
+.ten{
+    margin: 30px 50px;
+}
+#a, #b, #c, #d, #e{
+    text-decoration: none;
+    color: #06f6d5;
+}
+.menu{
+    font-size: 25px;
+    line-height: 35px;
+    margin-bottom: 100px;
+    font-family: Calibri, serif;
+    text-shadow: 1px 1px black;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+.small{
+    font-size: 18px;
+    line-height: 23px;
+    color: #424242;
+    font-style: italic;
+}
+
+
